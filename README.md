@@ -1,10 +1,9 @@
 <h1>Hi, Manuel Ferreras! </h1>
   
+<h2>💻 Cybersecurity Projects:  </h2>
+  
 
-<h3>👨‍💻 Cybersecurity Projects:</h3>
-
-
-<h3>📃Certifications</h3>
+<h2>📃Certifications</h2>
 
 - [Comptia security+ in progress]
 - [Comptia Network+](https://www.credly.com/badges/ef6b9f82-e9f8-46ac-bc04-d8aa2f880355)
