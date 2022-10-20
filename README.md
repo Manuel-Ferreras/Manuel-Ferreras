@@ -3,10 +3,10 @@
 <h2>💻 Cybersecurity Projects:  </h2>
 
  - [Linux_mac_changer](https://github.com/Manuel-Ferreras/Linux_mac_changer-) 
-- [vulnerability scanner]- work in progress
+- [vulnerability scanner](https://github.com/Manuel-Ferreras/vulnerability-scanner)
 <h2>📃Certifications</h2>
 
-- [Comptia security+ in progress]
+- [Comptia security+ estimated in december]
 - [Comptia Network+](https://www.credly.com/badges/ef6b9f82-e9f8-46ac-bc04-d8aa2f880355)
 - [Comptia A+](https://www.credly.com/badges/4fba9ae0-c297-49c3-a2a2-07b1b2f77da8)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/a2774aa6-be41-4ede-bdcf-b48f7819d6a4)
