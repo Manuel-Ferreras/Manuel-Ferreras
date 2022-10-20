@@ -2,8 +2,11 @@
   Obsessed with the Cybersecurity
 <h2>💻 Cybersecurity Projects:  </h2>
 
- - [Linux_mac_changer](https://github.com/Manuel-Ferreras/Linux_mac_changer-) 
+- [Linux_mac_changer](https://github.com/Manuel-Ferreras/Linux_mac_changer-) 
 - [vulnerability scanner](https://github.com/Manuel-Ferreras/vulnerability-scanner)
+- [Phishing Simulation work in progress]
+- [seim work in progress]
+
 <h2>📃Certifications</h2>
 
 - [Comptia security+ estimated in december]
