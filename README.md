@@ -4,8 +4,8 @@
 
 - [Linux_mac_changer](https://github.com/Manuel-Ferreras/Linux_mac_changer-) 
 - [vulnerability scanner](https://github.com/Manuel-Ferreras/vulnerability-scanner)
-- [Phishing Simulation work in progress]
-- [seim work in progress]
+- [Phishing Simulation](https://github.com/Manuel-Ferreras/phishing-Simulation)
+- [SEIM work in progress]
 
 <h2>📃Certifications</h2>
 
