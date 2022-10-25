@@ -17,9 +17,9 @@
 - [Azure AZ-900](https://www.credly.com/badges/71a45233-6d8a-43d4-a696-8ec79d900439)
 - [Professional Scrum Master™ I (PSM I)](https://www.credly.com/badges/74822a26-3f3d-4ac7-b67d-1f14521d7b96)
 
-<h2>IT hobby projects</h2>
+<h2> 🤓🥽🔧🛠 IT hobby projects</h2>
 
--  Amazon alexa wake up on lan
+-  glAmazon alexa wake up on lan
 
 <h3>🔌📱💻Connect with me:</h3>
 
