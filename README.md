@@ -19,7 +19,7 @@
 
 <h2> 🤓🥽🔧🛠 IT hobby projects</h2>
 
--  Amazon alexa wake up on lan
+-  [Amazon alexa wake up on lan](https://github.com/Manuel-Ferreras/Alexa_turn_my_laptop_on-/tree/main)
 
 <h3>🔌📱💻Connect with me:</h3>
 
