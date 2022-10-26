@@ -19,7 +19,7 @@
 
 <h2> 🤓🥽🔧🛠 IT hobby projects</h2>
 
--  glAmazon alexa wake up on lan
+-  Amazon alexa wake up on lan
 
 <h3>🔌📱💻Connect with me:</h3>
 
