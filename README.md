@@ -10,7 +10,7 @@
 <h2>📃Certifications</h2>
 
 - [Comptia security+ estimated in december]
-- [Microsoft SC-900 Security, Compliance, and Identity Fundamentals](https://www.credly.com/earner/earned/badge/b634e99f-0a39-45b2-9ac3-d4ccc0662e99)
+- [Microsoft SC-900 Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/b634e99f-0a39-45b2-9ac3-d4ccc0662e99/linked_in_profile)
 - [Comptia Network+](https://www.credly.com/badges/ef6b9f82-e9f8-46ac-bc04-d8aa2f880355)
 - [Comptia A+](https://www.credly.com/badges/4fba9ae0-c297-49c3-a2a2-07b1b2f77da8)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/a2774aa6-be41-4ede-bdcf-b48f7819d6a4)
