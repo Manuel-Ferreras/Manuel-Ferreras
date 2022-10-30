@@ -2,7 +2,7 @@
   Obsessed with the Cybersecurity
 <h2>💻 Cybersecurity Projects:  </h2>
 
-- [SIEM-SPLUNK-AWS work in progress](https://github.com/Manuel-Ferreras/SIEM-SPLUNK-AWS-)
+- [SIEM-SPLUNK-AWS](https://github.com/Manuel-Ferreras/SIEM-SPLUNK-AWS-)
 - [mac_changer_python_script](https://github.com/Manuel-Ferreras/Linux_mac_changer-) 
 - [vulnerability scanner](https://github.com/Manuel-Ferreras/vulnerability-scanner)
 - [Phishing Simulation](https://github.com/Manuel-Ferreras/phishing-Simulation)
