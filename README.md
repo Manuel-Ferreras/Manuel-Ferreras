@@ -9,7 +9,7 @@
 
 <h2>📃Certifications</h2>
 
-- [Comptia security+ estimated in december]
+- [Comptia security+](https://www.credly.com/badges/8503eb79-086d-47bb-b3dd-c5d95603c426)
 - [Microsoft SC-900 Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/b634e99f-0a39-45b2-9ac3-d4ccc0662e99/linked_in_profile)
 - [Comptia Network+](https://www.credly.com/badges/ef6b9f82-e9f8-46ac-bc04-d8aa2f880355)
 - [Comptia A+](https://www.credly.com/badges/4fba9ae0-c297-49c3-a2a2-07b1b2f77da8)
