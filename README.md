@@ -3,7 +3,7 @@
 <h2>💻 Cybersecurity Projects:  </h2>
 
 - [SIEM-SPLUNK-AWS](https://github.com/Manuel-Ferreras/SIEM-SPLUNK-AWS-)
-- [mac_changer_python_script](https://github.com/Manuel-Ferreras/Linux_mac_changer-) 
+- [Malware-Analysis-Lab-Setup](https://github.com/Manuel-Ferreras/Malware-Analysis-Lab-Setup/tree/main) 
 - [vulnerability scanner](https://github.com/Manuel-Ferreras/vulnerability-scanner)
 - [Phishing Simulation](https://github.com/Manuel-Ferreras/phishing-Simulation)
 
