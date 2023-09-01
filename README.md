@@ -1,5 +1,5 @@
 <h1>Hello World! My name is Manuel Ferreras</h1>
-  Obsessed with the Cybersecurity
+  Obsessed with Cybersecurity
 <h2>💻 Cybersecurity Projects:  </h2>
 
 - [SIEM-SPLUNK-AWS](https://github.com/Manuel-Ferreras/SIEM-SPLUNK-AWS-)
