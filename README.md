@@ -3,7 +3,7 @@
 <h2>💻 Projects:</h2>
 
 - [SIEM-SPLUNK-AWS](https://github.com/Manuel-Ferreras/SIEM-SPLUNK-AWS-)
-- [Malware-Analysis-Lab-Setup- WORK IN PROGRESS ](https://github.com/Manuel-Ferreras/Malware-Analysis-Lab-Setup/tree/main) 
+- [Malware-Analysis-Lab-Setup-](https://github.com/Manuel-Ferreras/Malware-Analysis-Lab-Setup/tree/main) 
 - [vulnerability scanner](https://github.com/Manuel-Ferreras/vulnerability-scanner)
 - [Phishing Simulation](https://github.com/Manuel-Ferreras/phishing-Simulation)
 
@@ -20,7 +20,7 @@
 <h2> 🤓🥽🔧🛠 IT hobby projects</h2>
 
 -  [Amazon Alexa wake up on lan](https://github.com/Manuel-Ferreras/Alexa_turn_my_laptop_on-/tree/main)
--  [VMware-ESXi](https://github.com/Manuel-Ferreras/VMware-ESXi) WORK IN PROGRESS
+-  [VMware-ESXi WORK IN PROGRESS](https://github.com/Manuel-Ferreras/VMware-ESXi)
 
 
 <h3>🔌📱💻Connect with me:</h3>
