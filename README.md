@@ -2,7 +2,8 @@
   
 <h2>💻 Projects:</h2>
 
-- [SIEM-SPLUNK-AWS](https://github.com/Manuel-Ferreras/SIEM-SPLUNK-AWS-)
+- [Setting-Up-SIEM-SPLUNK-AWS-](https://github.com/Manuel-Ferreras/SIEM-SPLUNK-AWS-)
+- [Splunk-Active-directory-](https://github.com/Manuel-Ferreras/Splunk-Active-directory-) WORK IN PROGRESS 
 - [Malware-Analysis-Lab-Setup-](https://github.com/Manuel-Ferreras/Malware-Analysis-Lab-Setup/tree/main) 
 - [vulnerability scanner](https://github.com/Manuel-Ferreras/vulnerability-scanner)
 - [Phishing Simulation](https://github.com/Manuel-Ferreras/phishing-Simulation)
